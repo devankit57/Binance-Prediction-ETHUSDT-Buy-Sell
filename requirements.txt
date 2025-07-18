@@ -1,0 +1,10 @@
+Flask
+ccxt
+pandas
+numpy
+joblib
+pytz
+scikit-learn
+imbalanced-learn
+ta
+xgboost
